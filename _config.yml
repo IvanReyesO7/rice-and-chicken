@@ -18,21 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Rice and Chicken
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  What does rice and chicken means? Well, it means that I like rice, and I like chicken.
+  Chicken is a great source of protein, and rice is a great source of carbohydrates. Together, they make a great meal.
+  It is also the name of a Colombian typical dish, which is made with rice, chicken, and a variety of other ingredients.
+  My mom makes the best rice and chicken.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-bear-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +52,58 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+markdown: kramdown
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
+
+# sass:
+#   sass_dir: css
+#   style:    compressed
+
+collections:
+  my_tags:
+    output: true
+    permalink: /tagged/:slug/
+defaults:
+  -
+    scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: tagged
+
+# baseurl: ""
+permalink: /blog/:slug
+timezone: America/New_York
+future: false
+
+exclude:
+- README.md
+- LICENSE.md
+
+exclude: [vendor]
+
+Blog: /blog
+
+# Add general links to site pages here
+links:
+  # Resume: /assets/resume.pdf
+  
+
+# Add links for more focus here
+special_links:
+  # "Search": https://duckduckgo.com
