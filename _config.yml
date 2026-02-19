@@ -88,7 +88,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: Japan/Tokyo
 future: false
 
 exclude:
@@ -98,6 +98,8 @@ exclude:
 exclude: [vendor]
 
 Blog: /blog
+Portfolio: /portfolio
+
 
 # Add general links to site pages here
 links:

@@ -11,13 +11,13 @@
         <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
         <link href='{{ site.baseurl }}/feed.xml' rel='alternate' type='application/atom+xml'>
         <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}">
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
         <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
         <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
-        <!-- {% if page.layout == 'life-in-weeks' %}
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/life-in-weeks.css">
-        {% endif %} -->
+        {% if page.layout == 'portfolio' %}
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/portfolio.css">
+        {% endif %}
     </head>
 
 <body>

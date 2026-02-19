@@ -1,0 +1,74 @@
+- date: April 1995
+  professional: false
+  title: Birth
+  description: I was born in April 1995 in Bogotá, Colombia.
+
+- date: June 2000
+  professional: false
+  title: My sisters were born
+  description: My twin sisters were born in June 2000 in Bogotá, Colombia.
+
+- date: September 2005
+  professional: false
+  title: Got my first PS1
+  description: I got my first PS1 in September 2005, and spent uncountable hours playing games like Crash Bandicoot, Spyro, and Final Fantasy VII.
+
+- date: December 2011
+  professional: false
+  title: Graduated from high school
+  description: Graduate at 17 years old from high school. At that time I was obsessed with anime and video games.
+
+- date: February 2012
+  professional: false
+  title: Moved to London, UK
+  description: I moved to London, UK in February 2012 for a year of exchange. In there I met my wife.
+
+- date: January 2013
+  professional: true
+  title: Started university
+  description: I started university in January 2013, studying Industrial Engineering at Universidad Nueva Granada in Bogotá, Colombia.
+
+- date: November 2013
+  professional: false
+  title: My first trip to Japan
+  description: I went to Japan for the first time in November 2013, and it was love at first sight.
+
+- date: August 2016
+  professional: true
+  title: Got my first job
+  description: I got my first job in August 2016, working as a bilingal customer service representative. Just a fancy name to say that I was answering phone calls from angry customers from the US.
+
+- date: July 2017
+  professional: true
+  title: Got a job as an HR intern in an Oil and Gas company
+  description: I got a job as an HR intern in Schlumberger in July 2017, and it was a great experience. I learned a lot about the oil and gas industry, and I also got to work with some amazing people.
+
+- date: January 2018
+  professional: false
+  title: Got married
+  description: I got married to my wife in January 2018. After 6 years of a long distance relationship, we finally got married.
+
+- date: November 2018
+  professional: false
+  title: Moved to Japan
+  description: I moved to Japan in November 2018, and it was a dream come true. I had always wanted to live in Japan, and I finally got the chance to do it and live with my wife.
+
+- date: April 2020
+  professional: false
+  title: Graduated from Akamonkai Nihongo Gakko. 
+  description: I graduated from Akamonkai Nihongo Gakko in April 2020, spent a year and three months studying Japanese while working part time doing deliveries for Uber Eats and working in a restaurant bar.
+
+- date: May 2021
+  professional: true
+  title: Started working as a software engineer
+  description: I started working as a software engineer in May 2021 at Xenon Partners. I had been learning to code for a while, and I finally got the chance to work in the field. My job was to develop and maintain a Rails monolith application.
+
+- date: September 2022 - present
+  professional: true
+  title: Started working at GMO Internet Group
+  description: I started working at GMO Internet Group in September 2022, I am currently working as a software engineer in the GMO Trust team, developing and maintaining Rails applications and microservices for the financial and blockchain services industry.
+
+- date: January 2025
+  professional: false
+  title: My first child was born
+  description: My first child was born in January 2025. His name is Sora, and he is the most beautiful thing in the world. I am so proud to be his father.
