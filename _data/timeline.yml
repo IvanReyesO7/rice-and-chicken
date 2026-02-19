@@ -36,17 +36,17 @@
 - date: August 2016
   professional: true
   title: Got my first job
-  description: I got my first job in August 2016, working as a bilingal customer service representative. Just a fancy name to say that I was answering phone calls from angry customers from the US.
+  description: I got my first job in August 2016, working as a bilingal customer service representative in an outsourcing company called Sitel in Bogotá, Colombia. Just a fancy name to say that I was answering phone calls from angry customers that had problems with their internet connection.
 
 - date: July 2017
   professional: true
-  title: Got a job as an HR intern in an Oil and Gas company
-  description: I got a job as an HR intern in Schlumberger in July 2017, and it was a great experience. I learned a lot about the oil and gas industry, and I also got to work with some amazing people.
+  title: Got a job as an HR intern in Schlumberger
+  description: I got a job as an HR intern in [Schlumberger](https://www.slb.com/), one of the biggest oilfield services companies in the world, in July 2017, and it was a great experience. I learned a lot about the oil and gas industry, and I also got to work with some amazing people.
 
 - date: January 2018
   professional: false
   title: Got married
-  description: I got married to my wife in January 2018. After 6 years of a long distance relationship, we finally got married.
+  description: I got married to my wife in January 2018 after 6 years of a long distance relationship.
 
 - date: November 2018
   professional: false
@@ -61,12 +61,12 @@
 - date: May 2021
   professional: true
   title: Started working as a software engineer
-  description: I started working as a software engineer in May 2021 at Xenon Partners. I had been learning to code for a while, and I finally got the chance to work in the field. My job was to develop and maintain a Rails monolith application.
+  description: I started working as a software engineer in May 2021 at Xenon Partners. I had been learning to code for a while, and I finally got the chance to work in the field. My job was to develop and maintain a Rails monolith application called [Packagecloud](https://packagecloud.io).
 
-- date: September 2022 - present
+- date: September 2022
   professional: true
   title: Started working at GMO Internet Group
-  description: I started working at GMO Internet Group in September 2022, I am currently working as a software engineer in the GMO Trust team, developing and maintaining Rails applications and microservices for the financial and blockchain services industry.
+  description: I started working at [GMO Internet Group](https://www.gmo.jp/en/) in September 2022, I am currently working as a software engineer in the GMO Trust team, developing and maintaining Rails applications and microservices for the financial and blockchain services industry.
 
 - date: January 2025
   professional: false

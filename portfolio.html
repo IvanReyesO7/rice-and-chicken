@@ -10,11 +10,11 @@ layout: portfolio
 
 <div class="timeline">
   {% for event in site.data.timeline %}
-  <div class="timeline-item">
+  <div class="timeline-item {% if event.professional %}timeline-item-professional{% endif %}">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <h3>{{ event.date }} — {{ event.title }}</h3>
-      <p>{{ event.description }}</p>
+      <p>{{ event.description | markdownify }}</p>
     </div>
   </div>
   {% endfor %}
