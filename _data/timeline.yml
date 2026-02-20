@@ -11,12 +11,12 @@
 - date: September 2005
   professional: false
   title: Got my first PS1
-  description: I got my first PS1 in September 2005, and spent uncountable hours playing games like Crash Bandicoot, Spyro, and Final Fantasy VII.
+  description: I got my first PS1 in September 2005, and spent countless hours playing games like Crash Bandicoot, Spyro, and Final Fantasy VII.
 
 - date: December 2011
   professional: false
   title: Graduated from high school
-  description: Graduate at 17 years old from high school. At that time I was obsessed with anime and video games.
+  description: Graduated at 17 years old from high school. At that time, I was obsessed with anime and video games.
 
 - date: February 2012
   professional: false
@@ -36,7 +36,7 @@
 - date: August 2016
   professional: true
   title: Got my first job
-  description: I got my first job in August 2016, working as a bilingal customer service representative in an outsourcing company called Sitel in Bogotá, Colombia. Just a fancy name to say that I was answering phone calls from angry customers that had problems with their internet connection.
+  description: I got my first job in August 2016, working as a bilingual customer service representative in an outsourcing company called Sitel in Bogotá, Colombia. Just a fancy name to say that I was answering phone calls from angry customers who had problems with their internet connection.
 
 - date: July 2017
   professional: true
@@ -56,7 +56,7 @@
 - date: April 2020
   professional: false
   title: Graduated from Akamonkai Nihongo Gakko. 
-  description: I graduated from Akamonkai Nihongo Gakko in April 2020, spent a year and three months studying Japanese while working part time doing deliveries for Uber Eats and working in a restaurant bar.
+  description: I graduated from Akamonkai Nihongo Gakko in April 2020, spent a year and three months studying Japanese while working part-time doing deliveries for Uber Eats and working in a restaurant bar.
 
 - date: May 2021
   professional: true
@@ -66,9 +66,14 @@
 - date: September 2022
   professional: true
   title: Started working at GMO Internet Group
-  description: I started working at [GMO Internet Group](https://www.gmo.jp/en/) in September 2022, I am currently working as a software engineer in the GMO Trust team, developing and maintaining Rails applications and microservices for the financial and blockchain services industry.
+  description: I started working at [GMO Internet Group](https://www.gmo.jp/en/) in September 2022, I am currently working as a software engineer in the GMO Trust team, developing and maintaining Rails applications and other microservices for the financial and blockchain services industry.
 
 - date: January 2025
   professional: false
   title: My first child was born
   description: My first child was born in January 2025. His name is Sora, and he is the most beautiful thing in the world. I am so proud to be his father.
+
+- date: April 2026
+  professional: false
+  title: Moved to Utsunomiya, Japan
+  description: I thought I would never leave Tokyo. I actually still consider it the best city in the world, but thinking about the future of my family and the quality of life I want for my son, I decided to move to Utsunomiya, a smaller city of 500,000 people, located 100 km north of Tokyo. With half of the budget I had in mind to buy an old apartment in Tokyo, I bought a big, new, detached house, something that I would never have been able to afford in Tokyo. I am excited to begin this new chapter of my life in Utsunomiya, and I look forward to exploring all the amazing things this city has to offer.
