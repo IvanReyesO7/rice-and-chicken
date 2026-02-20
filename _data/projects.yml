@@ -1,0 +1,15 @@
+- name: SnapLinePi
+  subtitle: GoCV 🤝 Line-bot-sdk-go
+  description: SnapLinePi is a Raspberry Pi camera module integration with a Line Bot, allowing users to capture snapshots remotely via Line messenger.
+  url: https://github.com/IvanReyesO7/SnapLinePi
+  tags: 
+  - "Go"
+  - "Linux"
+
+- name: slack-spotify-integration
+  subtitle: Slack 🤝 Spotify
+  description: A working Slack bot made with Gin-Gonic framework that integrates a Slack DM channel with a Spotify Account. Developed to play some music at the office and democratize what everyone is listening to.
+  url: https://github.com/IvanReyesO7/slack-spotify-integration
+  tags: 
+  - "Go"
+  - "API"

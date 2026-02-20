@@ -29,3 +29,36 @@
 .timeline-content {
   padding-left: 10px;
 }
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--spacing-md);
+  font-size: 0.8em;
+}
+
+.project-card {
+  border: 1px solid var(--main-color);
+  background-color: var(--main-color-highlight);
+  border-radius: 5px;
+  padding: var(--spacing-md);
+  display: flex;
+  flex-direction: column;
+}
+
+.project-card-body {
+  flex: 1;
+}
+
+.project-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--spacing-md);
+}
+
+@media (max-width: 600px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+}

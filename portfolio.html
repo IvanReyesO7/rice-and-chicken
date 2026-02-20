@@ -4,10 +4,27 @@ layout: portfolio
 ---
 
 <h1>Portfolio</h1>
-
+<h2>Projects</h2>
+<p>Here are some of the personal projects I have worked on:</p>
+<div class="Projects"> 
+  <div class="projects-grid">
+    {% for project in site.data.projects %}
+    <div class="project-card">
+      <div class="project-card-body">
+        <h3>{{ project.name }}</h3>
+        <p>{{ project.subtitle }}</p>
+        <p>{{ project.description }}</p>
+      </div>
+      <div class="project-card-footer">
+        <a href="{{ project.url }}" target="_blank">View Project</a>
+        <p><strong>Tags:</strong> {{ project.tags | join: ", " }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
 <h2>Timeline</h2>
 <p>Here is a simple timeline of my life events and professional experience:</p>
-
 <div class="timeline">
   {% for event in site.data.timeline %}
   <div class="timeline-item {% if event.professional %}timeline-item-professional{% endif %}">
@@ -20,7 +37,3 @@ layout: portfolio
   {% endfor %}
 </div>
 
-<div class="Projects"> 
-  <h2>Projects</h2>
-  <p>Here are some of the personal projects I have worked on:</p>
-</div>
