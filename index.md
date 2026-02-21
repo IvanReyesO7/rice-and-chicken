@@ -6,7 +6,7 @@ title: Hello
 ## Introduction
 
 Welcome to Rice and Chicken.
-My name is Ivan, am a developer based in Utsunomiya, Japan.
+My name is Ivan, am a developer based in Tokyo, Japan.
 Currently working at [GMO Internet Company, Inc](https://group.gmo/) as a Software Engineer.
 I have over 5 years of expirience working on Ruby on Rails projects.
 I created this GitHub site as a place where I can write posts, and also have a portfolio to showcase my experience.
