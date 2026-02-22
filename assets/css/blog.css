@@ -1,0 +1,6 @@
+.blog-post{
+  border: 1px solid var(--main-color);
+  background-color: var(--main-color-highlight);
+  padding: var(--spacing-sm);
+  border-radius: 5px;
+}
