@@ -398,3 +398,7 @@ input[type=reset] {
 .title-theme-toggle:hover .theme-icon {
     fill: var(--link-color);
 }
+
+.footer-back {
+    padding-bottom: --var(--spacing-sm);
+}
