@@ -54,12 +54,12 @@
   description: I moved to Japan in November 2018, and it was a dream come true. I had always wanted to live in Japan, and I finally got the chance to do it and live with my wife.
 
 - date: January 2019
-  professional: true
+  professional: false
   title: Started Japanese school
   description: Started Japanese school in January 2019 at Akamonkai Nihongo Gakko, a Japanese language school in Nippori, Tokyo.
 
 - date: April 2020
-  professional: false
+  professional: true
   title: Graduated from Akamonkai Nihongo Gakko. 
   description: Spent a year and three months studying Japanese while working part-time doing deliveries for Uber Eats and working in a restaurant bar.
 
@@ -70,13 +70,18 @@
 
 - date: May 2021
   professional: true
-  title: Started working as a software engineer
+  title: Started working as a software engineer at Xenon Partners
   description: I started working as a software engineer in May 2021 at Xenon Partners. I had been learning to code for a while, and I finally got the chance to work in the field. My job was to develop and maintain a Rails monolith application called [Packagecloud](https://packagecloud.io). With packagecloud teams can manage, distribute and monitor their software packages and repositories in the cloud and on-premises in a simple, secure and scalable way.
 
 - date: September 2022
   professional: true
   title: Started working at GMO Internet Group
   description: I started working at [GMO Internet Group](https://www.gmo.jp/en/) in September 2022, I am currently working as a software engineer in the GMO Trust team, developing and maintaining Rails applications and other microservices for the financial and blockchain services industry.
+
+- date: October 2022
+  professional: false
+  title: Got my japanese drivers license
+  description: Might not be the most exciting thing for everyone, but getting my Japanese drivers license was a huge milestone for me, it was a long and difficult process with a lot of paperwork and tests.
 
 - date: January 2025
   professional: false
