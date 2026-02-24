@@ -53,10 +53,20 @@
   title: Moved to Japan
   description: I moved to Japan in November 2018, and it was a dream come true. I had always wanted to live in Japan, and I finally got the chance to do it and live with my wife.
 
+- date: January 2019
+  professional: true
+  title: Started Japanese school
+  description: Started Japanese school in January 2019 at Akamonkai Nihongo Gakko, a Japanese language school in Nippori, Tokyo.
+
 - date: April 2020
   professional: false
   title: Graduated from Akamonkai Nihongo Gakko. 
-  description: I graduated from Akamonkai Nihongo Gakko in April 2020, spent a year and three months studying Japanese while working part-time doing deliveries for Uber Eats and working in a restaurant bar.
+  description: Spent a year and three months studying Japanese while working part-time doing deliveries for Uber Eats and working in a restaurant bar.
+
+- date: December 2020
+  professional: true
+  title: Passed the JLPT N2
+  description: I passed the JLPT N2 in December 2020, which was a great achievement for me, it oppened a lot of doors for me in terms of job opportunities in Japan, and it also gave me a lot of confidence in my Japanese language.
 
 - date: May 2021
   professional: true
