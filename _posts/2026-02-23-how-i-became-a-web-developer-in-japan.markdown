@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "How I Became a Web Developer in Japan (and Didn’t Die Trying)"
+author_name: Ivan Reyes
+author_avatar: /assets/images/colaborators/rice_with_chicken.png
 date:   2026-02-23 18:16:19 +0900
 cover_image: /assets/images/posts/view_from_my_office.jpeg
+cover_image_alt: The view of Shibuya from my office
 tags: [japan, career]
 ---
 
