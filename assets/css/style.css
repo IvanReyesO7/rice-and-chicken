@@ -168,9 +168,9 @@ a:hover {
     text-decoration: none;
 }
 
-a:visited {
+/* a:visited {
     color: var(--visited-color);
-}
+} */
 
 /* External link marker */
 a[href^="http"]:where(:not([href*="knhash.in/"])):not(:has(img))::after {
@@ -291,9 +291,9 @@ ul.blog-posts li span {
     flex: 0 0 130px;
 }
 
-ul.blog-posts li a:visited {
+/* ul.blog-posts li a:visited {
     color: var(--visited-color);
-}
+} */
 
 i time {
     font-style: normal;
