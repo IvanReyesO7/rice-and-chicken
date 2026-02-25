@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My mom makes the best rice and chicken.
 
 baseurl: "/rice-and-chicken"
-url: "https://my-github-username.github.io"
+url: "https://IvanReyesO7.github.io"
 
 # Build settings
 theme: jekyll-bear-theme
