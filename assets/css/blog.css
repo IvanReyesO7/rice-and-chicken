@@ -3,6 +3,7 @@
   background-color: var(--main-color-highlight);
   padding: var(--spacing-sm);
   border-radius: 5px;
+  margin-bottom: 3px
 }
 
 .tag{
