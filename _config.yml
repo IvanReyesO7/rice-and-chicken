@@ -19,16 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rice and Chicken
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   What does rice and chicken means? Well, it means that I like rice, and I like chicken.
   Chicken is a great source of protein, and rice is a great source of carbohydrates. Together, they make a great meal.
   It is also the name of a Colombian typical dish, which is made with rice, chicken, and a variety of other ingredients.
   My mom makes the best rice and chicken.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+baseurl: "/rice-and-chicken"
+url: "https://my-github-username.github.io"
 
 # Build settings
 theme: jekyll-bear-theme
@@ -54,9 +52,6 @@ theme: jekyll-bear-theme
 #   - vendor/ruby/
 
 plugins:
-  - jekyll-redirect-from
-
-whitelist:
   - jekyll-redirect-from
 
 markdown: kramdown
@@ -94,8 +89,7 @@ future: false
 exclude:
 - README.md
 - LICENSE.md
-
-exclude: [vendor]
+- vendor
 
 Blog: /blog
 Portfolio: /portfolio
