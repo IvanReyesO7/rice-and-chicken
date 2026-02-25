@@ -12,16 +12,12 @@
     </div>
     <nav>
         <p>
-            <a href="{{ site.url }}">Home</a> 
-            <a href="{{ site.url }}{{ site.Portfolio }}">Portfolio</a> 
-            <a href="{{ site.url }}{{ site.Blog }}">Blog</a>
+            <a href="{{ site.baseurl }}">Home</a> 
+            <a href="{{ site.baseurl }}{{ site.Portfolio }}">Portfolio</a> 
+            <a href="{{ site.baseurl }}{{ site.Blog }}">Blog</a>
         
             {% for link in site.links %}
-                <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
-            {% endfor %}
-            
-            {% for link in site.special_links %}
-                    <a href="{{ link[1] }}">[{{ link[0] }}]</a>
+                <a href="{{ site.baseurl }}{{ link[1] }}">{{ link[0] }}</a>
             {% endfor %}
         </p>
     </nav>

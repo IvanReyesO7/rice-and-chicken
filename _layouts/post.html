@@ -12,7 +12,7 @@ layout: compress
     <h1>{{ page.title }}</h1>
     {% if page.author_name %}
     <div class="author-info">
-        <img class="author-avatar" src="{{ page.author_avatar }}" alt="{{ page.author_name }}'s avatar">
+        <img class="author-avatar" src="{{ site.baseurl }}/{{ page.author_avatar }}" alt="{{ page.author_name }}'s avatar">
         <div>
             By <strong>{{ page.author_name }}</strong>
             <br>
@@ -22,7 +22,7 @@ layout: compress
     {% endif %}
     <h4 class="subtitle">{{ page.subtitle }}</h4>
     {% if page.cover_image %}
-      <img class="cover-image" src="{{ page.cover_image }}" alt="{{ page.cover_image_alt | default: page.title }}">
+      <img class="cover-image" src="{{ site.baseurl }}/{{ page.cover_image }}" alt="{{ page.cover_image_alt | default: page.title }}">
     {% endif %}
 
     {{ page.content }}
