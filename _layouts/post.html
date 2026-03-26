@@ -24,6 +24,9 @@ layout: compress
     {% if page.cover_image %}
       <img class="cover-image" src="{{ site.baseurl }}/{{ page.cover_image }}" alt="{{ page.cover_image_alt | default: page.title }}">
     {% endif %}
+    {% if page.cover_image_subtext %}
+      <p class="cover-image-subtext">{{ page.cover_image_subtext }}</p>
+    {% endif %}
 
     {{ page.content }}
 </main>

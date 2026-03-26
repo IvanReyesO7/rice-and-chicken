@@ -6,6 +6,7 @@ author_avatar: /assets/images/colaborators/rice_with_chicken.png
 date:   2026-02-25 23:00:00 +0900
 cover_image: /assets/images/posts/view_from_my_office.jpeg
 cover_image_alt: The view of Shibuya from my office
+cover_image_subtext: '- Shibuya from my office window. Yes, I do like to brag about the view.'
 tags: [japan, career]
 ---
 
