@@ -34,6 +34,7 @@ Once I finished the bootcamp, I applied to more than 100 companies, and after se
 
 If you are someone who wants to get into the Industry here in Japan and has little to no experience, my advice would be:
 
-- Japanese first, and no, not the 参政党 (Sanseito) BS, I mean to learn Japanese first. Your opportunities get severely narrowed down if you can’t communicate in Japanese. Sure, there are a few companies where English is enough, and salaries are above average, but the competition is harsh, they even have the capacity to select people from a talent pool from abroad.
+- Japanese first. Your opportunities get severely narrowed down if you can’t communicate in Japanese. Sure, there are a few companies where English is enough, and salaries are above average, but the competition is harsh, they even have the capacity to select people from a talent pool from abroad.
 - Aim to start up companies that hire entry-level engineers; you can find many on [Wantedly](https://www.wantedly.com/projects), which is some sort of LinkedIn for smaller Japanese companies. I know at least five people who found their first job in IT on Wantedly.
 - Persistence is a Skill, don’t give up, build a portfolio, learn new things, stand out from the crowd of other junior devs. If someone like me could go from washing dishes to engineering, you can too.
+- Your first job doesn’t need to be perfect. The goal is simply to get your foot in the door and gain 1–2 years of experience. After that, your opportunities increase dramatically.
