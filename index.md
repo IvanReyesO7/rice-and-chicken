@@ -6,7 +6,7 @@ title: Hello
 ## Introduction
 
 Welcome to Rice and Chicken.
-My name is Ivan Reyes, I am a developer based in Tokyo, Japan.
+My name is Ivan Reyes, I am a developer based in Japan.
 I like memes, grography, languages, rock music, wine, and coding.
 
 I am currently working at [GMO Internet Company, Inc](https://group.gmo/) as a Software Engineer.
