@@ -76,7 +76,7 @@
 - date: September 2022
   professional: true
   title: Started working at GMO Internet Group
-  description: I started working at [GMO Internet Group](https://www.gmo.jp/en/) in September 2022, I am currently working as a software engineer in the GMO Trust team, developing and maintaining Rails applications and other microservices for the financial and blockchain services industry.
+  description: I started working at [GMO Internet Group](https://www.gmo.jp/en/) in September 2022 as a software engineer in the GMO Trust team, developing and maintaining Rails applications and other microservices for the financial and blockchain services industry.
 
 - date: October 2022
   professional: false
@@ -92,3 +92,8 @@
   professional: false
   title: Moved to Utsunomiya, Japan
   description: I thought I would never leave Tokyo. I actually still consider it the best city in the world, but thinking about the future of my family and the quality of life I want for my son, I decided to move to Utsunomiya, a smaller city of 500,000 people, located 100 km north of Tokyo. With half of the budget I had in mind to buy an old apartment in Tokyo, I bought a big, new, detached house, something that I would never have been able to afford in Tokyo. I am excited to begin this new chapter of my life in Utsunomiya, and I look forward to exploring all the amazing things this city has to offer.
+
+- date: October 2026
+  professional: true
+  title: Started working at Receptionist Inc.
+  description: Started a new role at [Receptionist Inc](https://receptionist.jp/), I am currently working as a software engineer in the development team.
